@@ -4,7 +4,7 @@ Más detalles → [Documentación](https://www.rdocumentation.org/packages/missM
 
 ---
 
-### PCA (Análisis de Componentes Principales)  
+## PCA (Análisis de Componentes Principales)  
 Es una forma de mirar los datos desde el mejor ángulo posible, donde se ve la mayor diferencia entre ellos.  
 Así puedes resumir tus datos en menos “ángulos”, pero sin perder tanta información.
 

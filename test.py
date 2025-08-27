@@ -1,3 +1,4 @@
+import numpy as np
 from main import MIPCA
 
 # Datos de juguete: 100 muestras, 5 features
